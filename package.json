@@ -1,0 +1,26 @@
+{
+  "name": "jesseparker",
+  "version": "1.0.0",
+  "description": "A pratice SPA for 277",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "htlm",
+    "css",
+    "javascript",
+    "es2015",
+    "spa"
+  ],
+  "author": "Jesse Parker",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "prettier": "^1.18.2",
+    "stylelint": "^10.1.0",
+    "stylelint-config-prettier": "^5.2.0",
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-prettier": "^1.1.1"
+  }
+}
